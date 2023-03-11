@@ -43,7 +43,7 @@ const Home = () => {
   return (
     <div>
       <HeroCard>
-        <HeroImage src="./public/assets/bg.jpg" alt="Background" />
+        <HeroImage src="/assets/bg.jpg" alt="Background" />
         <HeroOverlay>
           <HeroContent>
             <HeroTitle>Welcome to our store</HeroTitle>
